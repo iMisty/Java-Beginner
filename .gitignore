@@ -1,2 +1,5 @@
 # Java Class File
 */*.class
+
+# VSCode
+.vscode
